@@ -60,11 +60,10 @@ Ensure you have Node.js and npm (or yarn) installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/cartpole-rl.git
+    git clone https://github.com/Oluwat-dev/CartPole-Reinforcement-Learning-with-Deep-Q-Learning
     cd cartpole-rl
     ```
-    (Replace `your-username/cartpole-rl.git` with the actual repository URL if different.)
-
+  
 2.  **Install dependencies:**
     ```bash
     npm install
